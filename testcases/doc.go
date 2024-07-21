@@ -114,4 +114,6 @@ see https://golang.org/pkg/testing/#hdr-Examples for the conventions.
 See "Godoc: documenting Go code" for how to write good comments for godoc:
 https://golang.org/doc/articles/godoc_documenting_go_code.html
 */
-// package main // import "golang.org/x/tools/cmd/godoc"
+package main // import "golang.org/x/tools/cmd/godoc"
+
+func main() {}

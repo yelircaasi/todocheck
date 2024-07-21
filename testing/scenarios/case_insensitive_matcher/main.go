@@ -4,3 +4,5 @@ package main
 // tOdO WrongId: Case insensitive todo
 // TODO - malformed todo
 // TodO WrongId: Another case insensitive todo
+
+func main() {}

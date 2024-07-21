@@ -11,3 +11,5 @@ package main
 // TODO #7: A new issue
 // TODO #8: An issue in progress
 // TODO #9: A closed issue
+
+func main() {}

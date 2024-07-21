@@ -13,3 +13,5 @@ package main
 // TODO #175938883: An accepted todo (closed)
 
 // TODO #199938883: A non-existent issue
+
+func main() {}

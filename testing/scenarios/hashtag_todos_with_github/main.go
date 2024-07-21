@@ -8,3 +8,5 @@ package main
  * This is an invalid TODO #3:
  * as the issue is closed
  */
+
+func main() {}

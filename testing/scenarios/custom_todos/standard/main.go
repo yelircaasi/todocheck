@@ -27,3 +27,5 @@ package main
 /*
  * @fix 567: This is an invalid multiline todo, marked against a non-existent issue
  */
+
+func main() {}
